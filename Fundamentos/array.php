@@ -1,5 +1,5 @@
 <?php
-    //arrays
+    //arrays númericos
 
     $carros1 = array("BMW","Veloster","Hilux");
 
