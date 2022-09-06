@@ -11,7 +11,7 @@
     echo "Total de alunos:". count($alunos);
     echo '<hr>';
 
-    // Em cada laço o array $clientes atribui o valor para variável $pessoas
+    // k $pessoas
     foreach($clientes as $pessoas){
         echo $pessoas. "<br>";
     }
